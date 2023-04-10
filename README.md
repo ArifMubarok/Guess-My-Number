@@ -1,2 +1,4 @@
 # Guess-My-Number
-Game sederhana berbasis web
+Simple web-based game. 
+ - We are asked to guess the number that is a mystery in the question mark. 
+ - This number ranges from 1-100
